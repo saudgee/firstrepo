@@ -155,6 +155,6 @@ print(z)
 [Add Contents](#12--conents)
 [Install Extensions](#13--install-extentions)  
 
-## 13- Install Extentions  
+## 13- How to Install Extentions  
 
 ![Extension icon](extension-icon1.png) Press on extension icon on the left sidebar. Type the name of extension in search bar. Click on install icon of the required Extension and the extension will install.
